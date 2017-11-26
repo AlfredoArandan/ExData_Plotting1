@@ -1,5 +1,5 @@
 ### Peer-graded Assignment: Course Project 1 ###
-setwd("C:/Users/alfre/Google Drive/cursos/Data Science Specialization/4-Exploratory Data Analysis/1-Week 1/7-course project 1")
+setwd("C:PRIVATE/7-course project 1")
 getwd()
 data <- read.table("household_power_consumption.txt", header=TRUE, sep=";", stringsAsFactors=FALSE, dec=".")
 View(data)
